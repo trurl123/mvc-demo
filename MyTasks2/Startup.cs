@@ -10,5 +10,6 @@ namespace MyTasks2
         {
             ConfigureAuth(app);
         }
+
     }
 }
